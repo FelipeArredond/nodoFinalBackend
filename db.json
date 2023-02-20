@@ -1,0 +1,42 @@
+{
+    "users": [
+      {
+        "id": 1,
+        "username": "admin",
+        "password": "admin"
+      },
+      {
+        "username": "felipe",
+        "password": "admin",
+        "id": 2
+      },
+      {
+        "username": "stefa",
+        "password": "1234",
+        "id": 3
+      },
+      {
+        "username": "andres",
+        "password": "12345",
+        "id": 4
+      }
+    ],
+    "courses": [
+      {
+        "imageURL": "https://via.placeholder.com/80x80",
+        "tittle": "Pet Classifier2",
+        "desc": "Desc",
+        "hours": 10,
+        "users": [],
+        "id": 1
+      },
+      {
+        "imageURL": "https://via.placeholder.com/80x80",
+        "tittle": "Pet Classifier",
+        "desc": "dsc desde form",
+        "hours": 10,
+        "users": [],
+        "id": 2
+      }
+    ]
+  }
