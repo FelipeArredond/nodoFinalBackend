@@ -24,19 +24,27 @@
     "courses": [
       {
         "imageURL": "https://via.placeholder.com/80x80",
-        "tittle": "Pet Classifier2",
-        "desc": "Desc",
+        "tittle": "Meditacion para principiantes",
+        "desc": "Aprende a meditar y a despejar tu mente!.",
         "hours": 10,
         "users": [],
         "id": 1
       },
       {
         "imageURL": "https://via.placeholder.com/80x80",
-        "tittle": "Pet Classifier",
-        "desc": "dsc desde form",
+        "tittle": "Yoga para la salud mental",
+        "desc": "Equilibra tu cuerpo y tu mente a traves del deporte.",
         "hours": 10,
         "users": [],
         "id": 2
+      },
+      {
+        "imageURL": "https://via.placeholder.com/80x80",
+        "tittle": "Nutricion Saludable",
+        "desc": "Aprende a alimentarte para favorecer tu mente.",
+        "hours": 10,
+        "users": [],
+        "id": 3
       }
     ]
   }
